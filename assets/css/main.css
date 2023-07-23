@@ -1159,7 +1159,7 @@ p {
   top: 50%;
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
-  right: -70px;
+  right: 0px;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -1176,7 +1176,7 @@ p {
 
 .about-section .about-img-2 .shape.shape-2 {
   bottom: 0;
-  left: 50px;
+  left: 0px;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -1382,6 +1382,7 @@ p {
   .footer {
     padding-top: 120px;
     background: #5864FF;
+    margin-top: 0;
   }
 }
 
