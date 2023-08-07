@@ -1372,6 +1372,14 @@ p {
   margin-top: 100px;
 }
 
+.footer .logo {
+  width: 100px;
+}
+
+.footer .logo img {
+  width: 100%;
+}
+
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .footer {
     padding-top: 250px;
