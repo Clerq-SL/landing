@@ -11,6 +11,7 @@ site:
   base: '/landing' # Change this if you need to deploy to Github Pages, for example
   trailingSlash: false # Generate permalinks with or without "/" at the end
 
+
 collections:
   - name: 'post'
     label: 'Post'
